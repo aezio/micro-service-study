@@ -13,6 +13,7 @@
         <module>simple-consumer</module>
         <module>simple-provider</module>
         <module>microservice-eureka</module>
+        <module>simple-consumer-ribbon</module>
     </modules>
 
 </project>

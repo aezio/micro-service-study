@@ -9,7 +9,7 @@ spring:
     console:
       enabled: true
   application:
-    name: provider-eureka
+    name: simple-provider
 logging:
   level:
     root: INFO
