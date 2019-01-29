@@ -17,6 +17,7 @@ logging:
     org.hibernate: INFO
     org.hibernate.type.descriptor.sql.BasicBinder: TRACE
     org.hibernate.type.descriptor.sql.BasicExtractor: TRACE
+    cn.aezio.microservice.study.service.UserFeignClient: debug
 
 
 eureka:
