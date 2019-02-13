@@ -9,7 +9,7 @@ import org.springframework.cloud.openfeign.EnableFeignClients;
 public class SimpleConsumerFeignHystrixApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(SimpleConsumerFeignApplication.class, args);
+        SpringApplication.run(SimpleConsumerFeignHystrixApplication.class, args);
     }
 
 }
