@@ -15,6 +15,7 @@
         <module>microservice-eureka</module>
         <module>simple-consumer-ribbon</module>
         <module>simple-consumer-feign</module>
+        <module>simple-consumer-hystrix</module>
     </modules>
 
 </project>
