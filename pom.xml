@@ -17,6 +17,7 @@
         <module>simple-consumer-feign</module>
         <module>simple-consumer-hystrix</module>
         <module>simple-consumer-feign-hystrix</module>
+        <module>microservice-gateway-zuul</module>
     </modules>
 
 </project>
