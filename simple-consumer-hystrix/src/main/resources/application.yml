@@ -9,7 +9,7 @@ spring:
     console:
       enabled: true
   application:
-    name: simple-consumer
+    name: simple-consumer-hystrix
 
 management:
   endpoint:
